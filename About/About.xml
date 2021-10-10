@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>VFE - Vikings - Apiary Priority Patch</name>
+	<author>The1nk</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>the1nk.vfevapiarypriority</packageId>
+	<description>Very simple xml patch! Just increases the priority of the two Apiary jobs to be more important since they're related to food. They now fall in just below Milking tamed animals.	
+	
+Load order:
+	
+* VFE - Vikings
+* This Mod
+</description>
+	<loadAfter>
+		<li>OskarPotocki.VFE.Vikings</li>
+	</loadAfter>
+</ModMetaData>
