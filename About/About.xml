@@ -4,6 +4,7 @@
 	<author>The1nk</author>
 	<supportedVersions>
 		<li>1.2</li>
+		<li>1.3</li>
 	</supportedVersions>
 	<packageId>the1nk.vfevapiarypriority</packageId>
 	<description>Very simple xml patch! Just increases the priority of the two Apiary jobs to be more important since they're related to food. They now fall in just below Milking tamed animals.	
